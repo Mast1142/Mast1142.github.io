@@ -1,11 +1,11 @@
 # Site settings
-author: Samuel T
-title: 
+author: Samuel Tong
+title: A Software Dev's Beginning
 header-img: img/home-bg.png
 email: ssamt1142@gmail.com
-copyright_name: Samuel T
+copyright_name: Samuel Tong
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Start of Something New
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mast1142
